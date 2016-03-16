@@ -20,6 +20,13 @@
 - [paiza ITエンジニア・プログラマを目指す就活で押さえるべきポイント](http://paiza.jp/advice/student_advice)
 - [paiza新卒](http://paiza.jp/student)
 
+## ゲーム開発コミュニティ
+- [Pico Pico Cafe](http://www.picopicocafe.com/)
+- 東京インディーズ
+  - [HP](http://www.tokyoindies.com/)
+  - [Facebook](https://www.facebook.com/events/485833201601595/)
+- [Unity県人会議イベント一覧](https://kenjin.unity3d.jp/events)
+
 ## Unity関連
 - [Unity5.4β版](http://blogs.unity3d.com/jp/2016/03/15/enhanced-visuals-better-performance-and-more-the-unity-5-4-public-beta-is-ready/)
 
@@ -37,3 +44,4 @@
   - マインクラフトを採用する人工知能訓練プロジェクト
   - 2016年夏にオープンソースで公開予定
   
+
