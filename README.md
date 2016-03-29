@@ -25,6 +25,7 @@
 - 東京インディーズ
   - [HP](http://www.tokyoindies.com/)
   - [Facebook](https://www.facebook.com/events/485833201601595/)
+  - [デジゲー博2016](http://digigame-expo.org/)
 - [Unity県人会議イベント一覧](https://kenjin.unity3d.jp/events)
 
 ## Unity関連
