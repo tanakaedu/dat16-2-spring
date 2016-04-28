@@ -27,7 +27,7 @@
 - [Pico Pico Cafe](http://www.picopicocafe.com/)
 - 東京インディーズ
   - [HP](http://www.tokyoindies.com/)
-  - [Facebook](https://www.facebook.com/events/485833201601595/)
+  - [Facebook](https://www.facebook.com/events/264884527192215/)
   - [デジゲー博2016](http://digigame-expo.org/)
 - [Unity県人会議イベント一覧](https://kenjin.unity3d.jp/events)
 
