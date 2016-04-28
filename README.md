@@ -21,6 +21,7 @@
 ## 就職関連
 - [paiza ITエンジニア・プログラマを目指す就活で押さえるべきポイント](http://paiza.jp/advice/student_advice)
 - [paiza新卒](http://paiza.jp/student)
+- [Actcat 採用情報](http://www.actcat.co.jp/jobs)
 
 ## ゲーム開発コミュニティ
 - [Pico Pico Cafe](http://www.picopicocafe.com/)
