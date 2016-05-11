@@ -1,5 +1,14 @@
 # デジタルアーツ東京　2016年度2年生用リポジトリ
 
+# 3回目
+- [5/24 自作キャラのゲーム作成を無料体験【Unity/iClone/Maya】](https://kenjin.unity3d.jp/events/show/365)
+- [Unity 5.4 パブリックベータ版](http://blogs.unity3d.com/jp/2016/03/15/enhanced-visuals-better-performance-and-more-the-unity-5-4-public-beta-is-ready/)
+- [Unityのイベント関数の実行順](http://docs.unity3d.com/ja/current/Manual/ExecutionOrder.html)
+- [Unity 軽量なビルドサイズでWebGL用に出力する](https://medium.com/@verochan/how-to-export-your-unity-3d-project-to-webgl-and-keep-a-reasonable-build-size-8f6a719e7c18#.9en0lp9nz)
+- [日本科学未来館 GAME ON](http://www.fujitv.co.jp/events/gameon/)
+- [インストール手順2016](http://am1tanaka.hatenablog.com/entry/2016/04/05/230542)
+  - FirefoxとAndroid SDKをインストールしておいてください
+
 # インストール手順
 - http://am1tanaka.hatenablog.com/entry/2016/04/05/230542
 
