@@ -1,5 +1,10 @@
 # デジタルアーツ東京　2016年度2年生用リポジトリ
 
+# 4回目
+- NUnitの利用
+- AndroidのUnityからの書き出し
+
+
 # 3回目
 ## 情報
 - [5/24 自作キャラのゲーム作成を無料体験【Unity/iClone/Maya】](https://kenjin.unity3d.jp/events/show/365)
