@@ -1,5 +1,12 @@
 # デジタルアーツ東京　2016年度2年生用リポジトリ
 
+# インストールが必要なもの
+- [インストール手順2016](http://am1tanaka.hatenablog.com/entry/2016/04/05/230542)
+  - GitHub Desktop
+  - Firefox
+  - Android SDK
+
+
 # 4回目
 - NUnitの利用
   - https://github.com/nunit/nunit-csharp-samples
@@ -13,8 +20,6 @@
 - [Unityのイベント関数の実行順](http://docs.unity3d.com/ja/current/Manual/ExecutionOrder.html)
 - [Unity 軽量なビルドサイズでWebGL用に出力する](https://medium.com/@verochan/how-to-export-your-unity-3d-project-to-webgl-and-keep-a-reasonable-build-size-8f6a719e7c18#.9en0lp9nz)
 - [日本科学未来館 GAME ON](http://www.fujitv.co.jp/events/gameon/)
-- [インストール手順2016](http://am1tanaka.hatenablog.com/entry/2016/04/05/230542)
-  - FirefoxとAndroid SDKをインストールしておいてください
 
 ## 今日のテーマ
 - スマホ対応 or ユニットテスト
