@@ -10,7 +10,7 @@
 - [インストール手順2016](http://am1tanaka.hatenablog.com/entry/2016/04/05/230542)
   - FirefoxとAndroid SDKをインストールしておいてください
 
-## 内容
+## 今日のテーマ
 - スマホ対応 or ユニットテスト
 
 # 今年度の方針
