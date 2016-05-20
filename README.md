@@ -3,6 +3,7 @@
 # インストールが必要なもの
 - [インストール手順2016](http://am1tanaka.hatenablog.com/entry/2016/04/05/230542)
   - GitHub Desktop
+  - Atom
   - Firefox
   - Android SDK
 
