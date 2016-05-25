@@ -1,13 +1,8 @@
 # デジタルアーツ東京　2016年度2年生用リポジトリ
 
-# インストールが必要なもの
-- [インストール手順2016](http://am1tanaka.hatenablog.com/entry/2016/04/05/230542)
-  - GitHub Desktop
-  - Atom
-  - Firefox
-  - Android SDK
-
-# 4回目
+# 5回目(5/27)
+- [日本科学未来館 企画展「GAME ON」特別イベント「ゲームってなんでプログラミング？」](http://www.miraikan.jst.go.jp/event/1604141719829.html)
+- Androidのテストとビルド
 - Unityでのテスト
   - http://qiita.com/RyotaMurohoshi/items/9ef76d76de691a98975a
   - MonoDevelopではエラーがでる可能性がある
@@ -16,6 +11,15 @@
 - NUnitの利用
   - https://github.com/nunit/nunit-csharp-samples
 - AndroidのUnityからの書き出し
+
+
+# 4回目
+- インストール作業
+  - [インストール手順2016](http://am1tanaka.hatenablog.com/entry/2016/04/05/230542)
+    - GitHub Desktop
+    - Atom
+    - Firefox
+    - Android SDK
 
 
 # 3回目
