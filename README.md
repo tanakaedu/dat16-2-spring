@@ -2,7 +2,6 @@
 
 # 5回目(5/27)
 - [日本科学未来館 企画展「GAME ON」特別イベント「ゲームってなんでプログラミング？」](http://www.miraikan.jst.go.jp/event/1604141719829.html)
-- Androidのテストとビルド
 - Unityでのテスト
   - http://qiita.com/RyotaMurohoshi/items/9ef76d76de691a98975a
   - MonoDevelopではエラーがでる可能性がある
@@ -12,6 +11,34 @@
   - https://github.com/nunit/nunit-csharp-samples
 - AndroidのUnityからの書き出し
 
+## Androidのテストとビルド
+- Unity5.3.4を起動
+- 新しいプロジ作成。AndroidTestなどの名前にする
+- Cubeを作成
+- Scaleを、x=10、y=1、z=10ぐらいにして、画面下の方に配置
+- Sphereを作成
+- [Add Component]>[Physics]>[Rigidbody]を追加
+- 以上で、いったん動かして、ボールが落下するのを確認
+
+### おまけ
+- Materialを作って、ボールに色をつける
+- PhysicMaterialを作って、ボールが跳ね返るようにしてみる
+  - Bounceness を0.8などにして、弾性を上げる
+  - Bounce Combine をMaximum
+
+### 床の設定
+- Cubuに、[Add Component]>[Physic]>[Rigidbody]
+- RigidbodyのUse Gravityをはずす
+- Is Kinematicにチェック(物理挙動を無視して動かすので)
+- [Add Component]>[New Script]で、Sumahoという名前のC#スクリプトを作成
+- [Update]関数を以下のように編集
+```
+	void Update () {
+		Vector3 ac = Input.acceleration;
+		Debug.Log (ac);
+	}
+```
+- 上書き保存して、Unityに戻って、実行
 
 # 4回目
 - インストール作業
