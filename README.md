@@ -38,7 +38,22 @@
 		Debug.Log (ac);
 	}
 ```
-- 上書き保存して、Unityに戻って、実行
+- 上書き保存して、Unityに戻る
+
+### スマートフォンにUnityPlayerをインストール
+- Playストアを起動
+- Unity Remote4を検索してインストール
+
+### テスト
+- Unityの[Edit]>[Project Settings]>[Editor]メニューを選択
+- [Device]欄を、[Any Android Device]に変更
+- [File]>[Build Settings]を開く
+- Platformを[Android]に切り替える
+
+
+
+- Unity Remoteを起動してから、PCに接続して、Unityを実行
+
 
 # 4回目
 - インストール作業
