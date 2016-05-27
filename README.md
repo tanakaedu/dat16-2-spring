@@ -8,6 +8,8 @@
 # Unity Remote4のapkファイルを入手するには・・・
 - http://gaget.hatenablog.com/entry/Android-Api-Downloader
 
+# 6回目()
+- Unity マルチプレイヤーのドキュメント  http://forum.unity3d.com/threads/feedback-needed-new-doc-for-getting-started-with-unity-multiplayer.368900/
 
 # 5回目(5/27)
 - [日本科学未来館 企画展「GAME ON」特別イベント「ゲームってなんでプログラミング？」](http://www.miraikan.jst.go.jp/event/1604141719829.html)
