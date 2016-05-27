@@ -47,12 +47,17 @@
 ### テスト
 - Unityの[Edit]>[Project Settings]>[Editor]メニューを選択
 - [Device]欄を、[Any Android Device]に変更
-- [File]>[Build Settings]を開く
-- Platformを[Android]に切り替える
-
-
-
 - Unity Remoteを起動してから、PCに接続して、Unityを実行
+
+### 接続できとき
+- AndroidのUnity Remoteを閉じ、Unityを閉じ、USBケーブルをはずす
+- USBケーブルで、PCとAndroidを接続
+- USBデバッグモードになっていることを確認
+- AndroidでUnity Remoteを起動
+- PCで、Unityを起動
+- UnityでPlay
+
+以上で動いた。
 
 
 # 4回目
