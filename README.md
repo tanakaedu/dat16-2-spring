@@ -1,5 +1,10 @@
 # デジタルアーツ東京　2016年度2年生用リポジトリ
 
+# 学校のAndroidのドライバーインストール
+- コンピューター>ネットワーク>LANDISK-A601>disk>2016年>学生用フォルダー>ゲームプログラム２年>AndroidUSB を開く
+- 手順.txtを開いて、HTC用のアプリであるKiesSetupと、TabletSの設定を行う
+
+
 # 5回目(5/27)
 - [日本科学未来館 企画展「GAME ON」特別イベント「ゲームってなんでプログラミング？」](http://www.miraikan.jst.go.jp/event/1604141719829.html)
 - Unityでのテスト
