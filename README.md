@@ -101,7 +101,7 @@
   - [テラシュールブログ Unity 5 で「光モノ系」を表現するあれこれ](http://tsubakit1.hateblo.jp/entry/2015/06/24/055130)
 - Unity:スマートフォン用作品の開発
 - Unity:マルチプレイヤー
-- Unity:ユニットテスト
+- Unity:ユニットテスト/統合テスト
 - Unity サーティフィケーションプログラム:認定デベロッパーについて調査
 - TensorFlow:チュートリアルでAIを学ぶ
 - サーバー:Heroku + Pythonなど
