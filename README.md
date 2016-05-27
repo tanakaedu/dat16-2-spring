@@ -54,7 +54,7 @@
 - [Device]欄を、[Any Android Device]に変更
 - Unity Remoteを起動してから、PCに接続して、Unityを実行
 
-### 接続できとき
+### 接続できないとき
 - AndroidのUnity Remoteを閉じ、Unityを閉じ、USBケーブルをはずす
 - USBケーブルで、PCとAndroidを接続
 - USBデバッグモードになっていることを確認
