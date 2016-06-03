@@ -5,8 +5,12 @@
 - 手順.txtを開いて、HTC用のアプリであるKiesSetupと、TabletSの設定を行う
 
 
+
 # Unity Remote4のapkファイルを入手するには・・・
-- http://gaget.hatenablog.com/entry/Android-Api-Downloader
+- 該当アプリがインストール済みのAndroid端末で、ESエクスプローラーを起動
+- アプリボタンを押す
+- apkを取り出したいアプリを長押して、ダウンロードを選択
+- USBでPCと接続して、Backups>appsフォルダー内から取り出す
 
 # 6回目()
 - Unity マルチプレイヤーのドキュメント  http://forum.unity3d.com/threads/feedback-needed-new-doc-for-getting-started-with-unity-multiplayer.368900/
