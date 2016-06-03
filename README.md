@@ -3,7 +3,16 @@
 # 学校のAndroidのドライバーインストール
 - コンピューター>ネットワーク>LANDISK-A601>disk>2016年>学生用フォルダー>ゲームプログラム２年>AndroidUSB を開く
 - 手順.txtを開いて、HTC用のアプリであるKiesSetupと、TabletSの設定を行う
+- Android端末をPCから外す
 
+## 上記が終わったら
+- 実際に利用するアカウントにログイン(ゲームプログラミング２年生など)
+- XPERIA Table Sについて、手順.txtの3)から設定する
+- 上記が終わったら、XPERIA Tablet SをPCから外す
+- デスクトップからSamsung Kies(Lite)を起動
+- [USBケーブル接続]欄の[接続エラーを解決する]を押す
+- [開始]を押す
+- 以下、画面の指示に従う
 
 
 # Unity Remote4のapkファイルを入手するには・・・
