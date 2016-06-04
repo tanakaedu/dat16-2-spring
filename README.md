@@ -1,28 +1,20 @@
 # デジタルアーツ東京　2016年度2年生用リポジトリ
 
-# 学校のAndroidのドライバーインストール
-- コンピューター>ネットワーク>LANDISK-A601>disk>2016年>学生用フォルダー>ゲームプログラム２年>AndroidUSB を開く
-- 手順.txtを開いて、HTC用のアプリであるKiesSetupと、TabletSの設定を行う
-- Android端末をPCから外す
-
-## 上記が終わったら
-- 実際に利用するアカウントにログイン(ゲームプログラミング２年生など)
-- XPERIA Table Sについて、手順.txtの3)から設定する
-- 上記が終わったら、XPERIA Tablet SをPCから外す
-- デスクトップからSamsung Kies(Lite)を起動
-- [USBケーブル接続]欄の[接続エラーを解決する]を押す
-- [開始]を押す
-- 以下、画面の指示に従う
+# 7回目(6/10)
+- Androidで操作
+- Unity マルチプレイヤーのドキュメント
+  - http://forum.unity3d.com/threads/feedback-needed-new-doc-for-getting-started-with-unity-multiplayer.368900/
 
 
-# Unity Remote4のapkファイルを入手するには・・・
+# 6回目(6/3)
+- Androidの接続
+
+## Unity Remote4のapkファイルを入手するには・・・
 - 該当アプリがインストール済みのAndroid端末で、ESエクスプローラーを起動
 - アプリボタンを押す
 - apkを取り出したいアプリを長押して、ダウンロードを選択
 - USBでPCと接続して、Backups>appsフォルダー内から取り出す
 
-# 6回目()
-- Unity マルチプレイヤーのドキュメント  http://forum.unity3d.com/threads/feedback-needed-new-doc-for-getting-started-with-unity-multiplayer.368900/
 
 # 5回目(5/27)
 - [日本科学未来館 企画展「GAME ON」特別イベント「ゲームってなんでプログラミング？」](http://www.miraikan.jst.go.jp/event/1604141719829.html)
