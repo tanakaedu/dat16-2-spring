@@ -1,8 +1,10 @@
 # デジタルアーツ東京　2016年度2年生用リポジトリ
 
 # 7回目(6/10)
-- Androidで操作
-- Unity マルチプレイヤーのドキュメント
+- Androidの操作をUnityで確認
+- Android向けビルドを試す
+- 以前作成した、各種デモをAndroidようにビルドして動かす
+- Unityマルチプレイヤーの作り方
   - http://forum.unity3d.com/threads/feedback-needed-new-doc-for-getting-started-with-unity-multiplayer.368900/
 
 
