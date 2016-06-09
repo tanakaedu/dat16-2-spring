@@ -3,7 +3,7 @@
 # 7回目(6/10)
 - Androidの操作をUnityで確認
 - Android向けビルドを試す
-- 以前作成した、各種デモをAndroidようにビルドして動かす
+- 以前作成した光らせるデモなどを、Android向けにビルドして動きを確認する
 - Unityマルチプレイヤーの作り方
   - http://forum.unity3d.com/threads/feedback-needed-new-doc-for-getting-started-with-unity-multiplayer.368900/
 
