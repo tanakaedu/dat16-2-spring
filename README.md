@@ -1,11 +1,15 @@
 # デジタルアーツ東京　2016年度2年生用リポジトリ
 
+# 8回目(6/17)
+- Unityマルチプレイヤーを作る
+  - http://forum.unity3d.com/threads/feedback-needed-new-doc-for-getting-started-with-unity-multiplayer.368900/
+
+
 # 7回目(6/10)
 - Androidの操作をUnityで確認
 - Android向けビルドを試す
 - 以前作成した光らせるデモなどを、Android向けにビルドして動きを確認する
-- Unityマルチプレイヤーの作り方
-  - http://forum.unity3d.com/threads/feedback-needed-new-doc-for-getting-started-with-unity-multiplayer.368900/
+- シナリオエンジン [ジョーカースクリプト](http://jokerscript.jp/) をAndroidでビルド
 
 
 # 6回目(6/3)
