@@ -1,7 +1,7 @@
 # デジタルアーツ東京　2016年度2年生用リポジトリ
 
 # 8回目(6/17)
-- Unity5.3.4でのマルチプレイヤー
+- Unity5.3.4でマルチプレイヤーを動かす方法をまとめる
   - [Unity公式ドキュメント](http://docs.unity3d.com/ja/current/Manual/UNetOverview.html)
   - http://forum.unity3d.com/threads/feedback-needed-new-doc-for-getting-started-with-unity-multiplayer.368900/
 
