@@ -3,6 +3,7 @@
 # 8回目(6/17)
 - Unity5.3.4でマルチプレイヤーを動かす方法をまとめる
   - [Unity公式ドキュメント 0からマルチプレイヤープロジェクトをセットアップする](http://docs.unity3d.com/ja/current/Manual/UNetSetup.html)
+  - [Unity公式ドキュメント LocalDiscoveryで、LAN内のほかのPCに接続する](http://docs.unity3d.com/ja/current/Manual/UNetDiscovery.html)
   - [Unity公式ドキュメント](http://docs.unity3d.com/ja/current/Manual/UNetOverview.html)
   - http://forum.unity3d.com/threads/feedback-needed-new-doc-for-getting-started-with-unity-multiplayer.368900/
 
