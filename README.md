@@ -1,5 +1,13 @@
 # デジタルアーツ東京　2016年度2年生用リポジトリ
 
+# 9回目(6/24)
+- Unity5.3.4でUnity公式のロビーサーバーについて調査する
+  - 利用の条件(費用、接続制限)
+  - 使い方
+- 体験入学用の資料の検証
+  - 現在のバージョンと違うところを探す
+
+
 # 8回目(6/17)
 - Unity5.3.4でマルチプレイヤーを動かす方法をまとめる
   - [Unity公式ドキュメント LocalDiscoveryで、LAN内のほかのPCに接続する](http://docs.unity3d.com/ja/current/Manual/UNetDiscovery.html)
