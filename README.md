@@ -7,9 +7,7 @@
     - 開発中は、20CCU(同時に20名まで接続)までの制限で無料で利用可能
     - 公開する場合はProfessionalライセンスが必要で、さらにアクセス量に応じた費用が発生
     - 参考URL : [FreelyApps UnityMultiplayerの料金について](http://freelyapps.blog.jp/archives/1054487065.html)
-  - 使い方
-    - NetworkManagerのHUDから利用可能
-    - 右上のクラウドアイコン(雲のマーク)をクリックして、アカウントとプロジェクトを選択すれば接続できるようになる
+  - 使い方は[こちら](https://github.com/tanakaedu/dat162-haru/wiki/9%E5%9B%9E%E7%9B%AEUnet%E3%83%9E%E3%83%83%E3%83%81%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
 - Unity5.3でのシーン切り替え
   - Application.LoadLevel()→SceneManager.LoadScene()
   - シーン間の変数の保持を行う方法(ハイスコアをゲーム内で常に保持しておくなどに利用)
