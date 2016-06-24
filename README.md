@@ -1,9 +1,14 @@
 # デジタルアーツ東京　2016年度2年生用リポジトリ
 
 # 9回目(6/24)
-- Unity5.3.4でUnity公式のロビーサーバーについて調査する
+- Unity5.3.4でUnity公式のマッチメイキングサービスについて調査する
   - 利用の条件(費用、接続制限)
+    - http://docs.unity3d.com/ja/current/Manual/UNetInternetServicesOverview.html
+    - さしあたり、無料で利用可能
+    - 制限は見当たらない
   - 使い方
+    - NetworkManagerのHUDから利用可能
+    - 右上のクラウドアイコン(雲のマーク)をクリックして、アカウントとプロジェクトを選択すれば接続できるようになる
 - Unity5.3でのシーン切り替え
   - Application.LoadLevel()→SceneManager.LoadScene()
   - シーン間の変数の保持を行う方法(ハイスコアをゲーム内で常に保持しておくなどに利用)
