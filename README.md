@@ -4,6 +4,8 @@
 - Unity5.3.4でUnity公式のロビーサーバーについて調査する
   - 利用の条件(費用、接続制限)
   - 使い方
+- Unity5.3でのシーン切り替え
+  - Application.LoadLevel()→SceneManager.LoadScene()
 - 体験入学用の資料の検証
   - 現在のバージョンと違うところを探す
 
