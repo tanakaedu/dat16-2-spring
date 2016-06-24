@@ -3,9 +3,9 @@
 # 9回目(6/24)
 - Unity5.3.4でUnity公式のマッチメイキングサービスについて調査する
   - 利用の条件(費用、接続制限)
-    - http://docs.unity3d.com/ja/current/Manual/UNetInternetServicesOverview.html
+    - https://unity3d.com/jp/services/multiplayer
     - さしあたり、無料で利用可能
-    - 制限は見当たらない
+    - Personal版の制限は20CCUまで(同時に20名まで接続)
   - 使い方
     - NetworkManagerのHUDから利用可能
     - 右上のクラウドアイコン(雲のマーク)をクリックして、アカウントとプロジェクトを選択すれば接続できるようになる
