@@ -6,6 +6,7 @@
     - https://unity3d.com/jp/services/multiplayer
     - 開発中は、20CCU(同時に20名まで接続)までの制限で無料で利用可能
     - 公開する場合はProfessionalライセンスが必要で、さらにアクセス量に応じた費用が発生
+    - 参考URL : [FreelyApps UnityMultiplayerの料金について](http://freelyapps.blog.jp/archives/1054487065.html)
   - 使い方
     - NetworkManagerのHUDから利用可能
     - 右上のクラウドアイコン(雲のマーク)をクリックして、アカウントとプロジェクトを選択すれば接続できるようになる
