@@ -33,10 +33,10 @@
   - Unityを起動
   - ライセンスが必要な場合は、[Work Offline]を選択
   - Unityのバージョンが5.3.4かを確認。違う場合、インストール
+  - [OPEN]で、[Unity Projects]>[UNetShot534]フォルダーを開く
   - Layoutを[2 by 3]に変更
   - [Project]ビューの右上の三をクリックして[One Column]に変更
   - [Edit]>[Preferences]>[External Tools]を開いて、エディターがMono Developになっていることを確認。違う場合、Monoに変更
-  - [OPEN]で、[Unity Projects]>[UNetShot534]フォルダーを開く
 以上、全てのPCに実施
 
 ## 実習
