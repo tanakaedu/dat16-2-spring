@@ -22,15 +22,21 @@
     - 参考にした書籍やWebページがあれば、それらのリスト
 
 ## セットアップ作業
-- Unityのチェック
-  - guestでログイン
-  - Unityを起動
-  - Unityのバージョンが5.3.4かを確認。違う場合、インストール
-  - [Edit]>[Preferences]>[External Tools]を開いて、エディターがMono Developになっていることを確認。違う場合、Monoに変更
 - データのコピー
   - [ドキュメント]フォルダーに、[unitydatas]というフォルダーを作成
   - LAN DISKの指定のフォルダーを、上記のフォルダー内にコピー
-    - \\LANDISK-A601\disk\2016年\講師用フォルダー\tanaka\体験入学2016
+    - \\LANDISK-A601\disk\2016年\講師用フォルダー\tanaka\体験入学2016フォルダー内の、「03resource-akiba-net」「04project-multi」「04resource-multi」の3つのフォルダー
+  - 同じく以下のフォルダーを、ドキュメント>Unity Projectsフォルダー内にコピー
+    - \\LANDISK-A601\disk\2016年\講師用フォルダー\tanaka\体験入学2016\UNetShot534
+- Unityのチェック
+  - guestでログイン
+  - Unityを起動
+  - ライセンスが必要な場合は、[Work Offline]を選択
+  - Unityのバージョンが5.3.4かを確認。違う場合、インストール
+  - Layoutを[2 by 3]に変更
+  - [Project]ビューの右上の三をクリックして[One Column]に変更
+  - [Edit]>[Preferences]>[External Tools]を開いて、エディターがMono Developになっていることを確認。違う場合、Monoに変更
+  - [OPEN]で、[Unity Projects]>[UNetShot534]フォルダーを開く
 以上、全てのPCに実施
 
 ## 実習
